@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Safi Esfahani
+    given-names: Faramarz
+title: "LPDM-Framework"
+version: 1.0
+date-released: 2025-05-31
+url: https://github.com/faramarzsafi/LPDM-Framework

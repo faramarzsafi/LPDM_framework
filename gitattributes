@@ -1,0 +1,14 @@
+# Normalize line endings for text files to LF
+*.txt text eol=lf
+*.csv text eol=lf
+*.md  text eol=lf
+*.py  text eol=lf
+*.cs  text eol=lf
+
+# Treat Excel files as binary to avoid diff issues
+*.xlsx binary
+
+# Optional: mark shell scripts as text
+*.sh text eol=lf
+
+# Prevent CRLF warnings and ensure consistency across OSes
