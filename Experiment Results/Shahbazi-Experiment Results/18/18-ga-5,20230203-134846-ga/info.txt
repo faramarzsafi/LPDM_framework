@@ -1,0 +1,4 @@
+    cities = read_cities(50)
+    genetic_algorithm = GeneticAlgorithm(cities=cities, iterations=120,
+                                         population_size=100, elites_num=20, mutation_rate=0.08,
+                                         greedy_seed=1, roulette_selection=True, plot_progress=True)

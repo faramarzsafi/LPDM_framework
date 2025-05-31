@@ -1,0 +1,2 @@
+    cities = read_cities(100)
+    pso = PSO(iterations=120, population_size=100, pbest_probability=0.8, gbest_probability=0.02, cities=cities)
