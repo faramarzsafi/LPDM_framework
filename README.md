@@ -4,10 +4,12 @@
 
 A Linear Partitioning Diversity Metric for Evaluation of Permutation-based Metaheuristic Algorithms
 
+https://link.springer.com/article/10.1007/s12065-025-01035-9
+
 ### ✍️ Authors
 - **Majid Shahbazi**
-- **Faramarz Safi Esfahani**
-- **Hadi Shahbazi**
+- **Faramarz Safi-Esfahani**
+- **Sara Shahbazi**
 - **Seyedali Mirjalili**
 
 ---
@@ -82,12 +84,17 @@ This project is licensed under the [MIT License](LICENSE).
 If you use this framework in your research, please cite the following:
 
 ```bibtex
-@article{shahbazi2025lpdm,
-  title={A Linear Partitioning Diversity Metric for Evaluation of Permutation-based Metaheuristic Algorithms},
-  author={Shahbazi, Seyed Hadi and Safi Esfahani, Faramarz and Shah-Hosseini, Hadi and Taghipour, Majid},
-  journal={Journal Name},
-  year={2025}
+@article{shahbazi2025linear,
+  author    = {Shahbazi, M. and Safi-Esfahani, F. and Shahbazi, S., Mirjalili, S.},
+  title     = {A linear partitioning diversity metric for evaluation of permutation-based metaheuristic algorithms},
+  journal   = {Evolutionary Intelligence},
+  volume    = {18},
+  pages     = {69},
+  year      = {2025},
+  doi       = {10.1007/s12065-025-01035-9},
+  url       = {https://doi.org/10.1007/s12065-025-01035-9}
 }
+
 ```
 
 You can also refer to the citation file: `CITATION.cff`
