@@ -5,10 +5,10 @@
 A Linear Partitioning Diversity Metric for Evaluation of Permutation-based Metaheuristic Algorithms
 
 ### ✍️ Authors
-- **Seyed Hadi Shahbazi**
+- **Majid Shahbazi**
 - **Faramarz Safi Esfahani**
-- **Hadi Shah-Hosseini**
-- **Majid Taghipour**
+- **Hadi Shahbazi**
+- **Seyedali Mirjalili**
 
 ---
 
