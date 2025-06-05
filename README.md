@@ -1,6 +1,6 @@
 # 📘 LPDM Framework
 
-![LPDM Framework Overview](lpdm_framework_figure.png)
+![image](https://github.com/user-attachments/assets/78d3ee8c-8eba-48f5-8932-ffc100ea693e)
 
 A Linear Partitioning Diversity Metric for Evaluation of Permutation-based Metaheuristic Algorithms
 
